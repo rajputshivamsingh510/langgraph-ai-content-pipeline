@@ -24,7 +24,7 @@ Turn raw ideas into polished, engaging, naturally localized Hinglish content thr
 
 ## 🖥️ Frontend Preview
 
-![ScriptFlow AI Frontend Preview](./assets/frontend-preview.svg)
+![ScriptFlow AI Frontend Preview](./assets/frontend-preview.png)
 
 > **Try it live:** [langgraph-ai-content-pipeline.vercel.app](https://langgraph-ai-content-pipeline.vercel.app/)
 
