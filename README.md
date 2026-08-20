@@ -14,10 +14,6 @@ Turn raw ideas into polished, engaging, naturally localized Hinglish content thr
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 
-<br />
-
-**Live application:** https://langgraph-ai-content-pipeline.vercel.app/
-
 </div>
 
 ---
